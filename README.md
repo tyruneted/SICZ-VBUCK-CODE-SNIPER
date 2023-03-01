@@ -4,14 +4,7 @@ the [GitHub Commit Status API](http://developer.github.com/v3/repos/statuses/)
 For more details, see https://discord.gg/c6tjgw5nCd
 ### Discord
 
-[![Discord](https://discord.gg/c6tjgw5nCd)
-
-### Required Jenkins Plugins:
-* discord (https://discord.gg/c6tjgw5nCd)
-* purchase (https://discord.gg/c6tjgw5nCd)
-* general chat (https://discord.gg/c6tjgw5nCd)
-* create ticket (https://discord.gg/c6tjgw5nCd)
-* cmd channel (https://discord.gg/c6tjgw5nCd)
+[https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/62a07b53139aec4c1fd07771_discord-logo.png[Discord](https://discord.gg/c6tjgw5nCd)
 works same way as the nitro sniper 
 This is the demo. The demo is a ONE time use. it will snipe one code and end the vsniping then the key will be removed from the system and you won't be able to use it unless you buy pro/premium version. Use the file named "key.exe" to generate your ONE TIME USE key. It will be copied to your clipboard. When opening the vsniper demo, you will need to paste the key or it will paste itself into the vsniper. It will restart the program with your one time use key activated. You have to type START in the text field to start vsniping. Vsniper will generate 1 code for the demo. DM tyrune#0001 for problems or help. DM tyrune#0001 to buy pro/premium version as well. Pro = $5 Premium = $15
 
